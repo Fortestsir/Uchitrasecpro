@@ -1,1 +1,2 @@
-
+# Placeholder for SQLMap tool
+print('Running SQLMap scan...')
